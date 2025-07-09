@@ -3,6 +3,7 @@
 DorAImon is a nostalgic, emotionally intelligent, system-integrated AI assistant  inspired by Doraemon but powered by real-world AI.
 
 🌟 Features (Planned & Your Vision Ideas)
+
 -🧠 Emotionally Intelligent Interaction
 DorAImon understands your mood and tailors responses like a real friend.
 
