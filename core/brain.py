@@ -1,10 +1,16 @@
 # core/brain.py
 
 def load_personality():
-    with open("personality.txt", "r") as file:
-        return file.read()
+    """
+    Loads personality traits from the data/personality.txt file.
 
-def generate_response(user_input):
-    personality = load_personality()
-    # Placeholder logic
-    return f"{personality.splitlines()[0]} I'm here to help you with '{user_input}'!"
+    Returns:
+        list: A list of personality trait strings.
+    """
+    try:
+        with open("data/personality.txt", "r", encoding="utf-8") as file:
+            traits = file.readlines()
+            return [trait.strip() for trait in traits if trait.strip()]
+    except FileNotFoundError:
+        print("⚠️ personality.txt not found. Make sure it exists in the 'data/' folder.")
+        return []
