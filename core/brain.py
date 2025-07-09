@@ -1,7 +1,10 @@
 # core/brain.py
 
-def load_personality(file_path="data/personality.txt"):
-    with open(file_path, 'r') as f:
-        lines = f.readlines()
-    return [line.strip() for line in lines if line.strip()]
+def load_personality():
+    with open("personality.txt", "r") as file:
+        return file.read()
 
+def generate_response(user_input):
+    personality = load_personality()
+    # Placeholder logic
+    return f"{personality.splitlines()[0]} I'm here to help you with '{user_input}'!"
