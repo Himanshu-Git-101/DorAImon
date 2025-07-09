@@ -8,10 +8,10 @@ DorAImon is a nostalgic, emotionally intelligent, system-integrated AI assistant
 DorAImon understands your mood and tailors responses like a real friend.
 
 -🗣️ Conversational Chatbot (Text & Voice)
-Talk to DorAImon naturally — either by typing or using your voice.
+Talk to DorAImon naturally either by typing or using your voice.
 
 -🧒 Nostalgic, Friendly Personality
-Talks like Doraemon — warm, comforting, always there for you.
+Talks like Doraemon warm, comforting, always there for you.
 
 -🧠 LLM-Powered Intelligence
 Powered by Large Language Models (LLMs) like GPT or open-source alternatives for human-like understanding.
@@ -22,17 +22,11 @@ Remembers things about you, your preferences, your past conversations.
 -📋 Task Suggestions Based on Context
 Gives smart suggestions depending on what you’re doing or struggling with.
 
--🖥️ System-Integrated AI (Like Jarvis)
-Access to your computer’s files, software, browser, reminders, etc.
-
 -🔒 Admin Control Mode
 Can be given full control of the system — open apps, shut down, manage files (with your permission).
 
 -📁 Knowledge Management
 Keeps logs of your ideas, plans, and goals in structured memory.
-
--⌨️ Code-aware Support (Future)
-Will help you debug or write code while learning Python, C++, etc.
 
 -🔌 Modular Plugin System (Future)
 Add tools like weather, music, calendar, or even smart home devices.
