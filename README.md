@@ -36,6 +36,11 @@ Will help you debug or write code while learning Python, C++, etc.
 -🔌 Modular Plugin System (Future)
 Add tools like weather, music, calendar, or even smart home devices.
 
+-💻 Deep System Integration & Supervision
+Watches your activity in apps like VS Code, Chrome, Word.
+Detects errors in real-time (e.g., Python exceptions) and instantly suggests solutions.
+Appears as an assistant bubble or overlay like a friend guiding you.
+
 -🧩 Personality Swapping or Fine-Tuning
 Swap personalities (e.g., Zen, Energetic, Humorous) based on your mood.
 
@@ -48,11 +53,23 @@ Memory and settings synced across devices.
 -🧪 Experimental Mode (You Control Everything)
 Toggle developer mode to test AI behaviors or responses.
 
+-🧘 Emotional Wellness & Burnout Detection
+Notices if you’re working for too long in any app.
+Gently checks in with prompts like:
+"You’ve been in VS Code for a while, is everything okay?"
+"Want me to play something relaxing or help with your task?"
+
+Responds empathetically based on your feedback.
+
 -🪄 Emotional Support System
 Talks to you when you feel low, encourages you during burnout.
 
 -🧾 Daily Summary / Reflection Log
 Gives a friendly summary of your day, mood, goals, and what you learned.
+
+-🔔 Autonomous Trigger System
+No need to click or call DorAImon — it appears and assists when the moment is right.
+Fully event-driven design for seamless real-time interaction.
 
 ## 🔧 Technologies
 - Python
