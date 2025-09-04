@@ -13,6 +13,7 @@ Doraemon (nostalgic first AI from childhood) + Jarvis (system-level AI)
 - Task reminders
 - Mood tracking
 - Memory retention
+- Hand Sign Detection 
 
 ## Built by:
 Himanshu Pandit

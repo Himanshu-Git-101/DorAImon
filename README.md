@@ -88,6 +88,9 @@ No need to click or call DorAImon — it appears and assists when the moment is 
 
 Fully event-driven design for seamless real-time interaction.
 
+- 🖐️ **Hand Gesture Control
+DorAImon understands simple hand gestures using your webcam! For example, show a downward swipe gesture to scroll down on a webpage.
+
 ## 🔧 Technologies
 - Python
 - OpenAI / Local LLMs (Ollama)
