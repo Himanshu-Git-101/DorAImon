@@ -5,8 +5,11 @@ DorAImon is a nostalgic, emotionally intelligent, system-integrated AI assistant
 ==>Dual Brain Backend For Extra Security(The innovation of my project)
 
 -Brain No.1 it will have an llm of any company which will work same like Chatgpt
+
 -Brain No.2 it will be hosted on the local computer which will have the admin acess so the biggest security threat gets solved here
+
 -Both brain will not have any intersections
+
 -DorAImon will intelligently switch between both the brain or in some cases will learn to work simultaneouly with them.
 
 
@@ -41,7 +44,9 @@ DorAImon is a nostalgic, emotionally intelligent, system-integrated AI assistant
 ==> Deep System Integration & Supervision
 
 -Watches your activity in apps like VS Code, Chrome, Word.
+
 -Detects errors in real-time (e.g., Python exceptions) and instantly suggests solutions.
+
 -Appears as an assistant bubble or overlay like a friend guiding you.
 
 ==> Personality Swapping or Fine-Tuning
@@ -63,7 +68,9 @@ DorAImon is a nostalgic, emotionally intelligent, system-integrated AI assistant
 ==> Emotional Wellness & Burnout Detection
 
 -Notices if you’re working for too long in any app.
+
 -Gently checks in with prompts like:
+
 "You’ve been in VS Code for a while, is everything okay?"
 "Want me to play something relaxing or help with your task?"
 -Responds empathetically based on your feedback.
@@ -79,6 +86,7 @@ DorAImon is a nostalgic, emotionally intelligent, system-integrated AI assistant
 ==> Autonomous Trigger System
 
 -No need to click or call DorAImon — it appears and assists when the moment is right.
+
 -Fully event-driven design for seamless real-time interaction.
 
 ## 🔧 Technologies
