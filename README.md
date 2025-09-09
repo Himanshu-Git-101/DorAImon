@@ -113,6 +113,11 @@ DorAImon is a nostalgic, emotionally intelligent, system-integrated AI assistant
 -Gives a friendly summary of your day, mood, goals, and what you learned.
 
 
+==>Facial Emotion Recogniton System 
+
+-Will always analyse your emotions before responding and change it's tone accordingly. Ex: A soothing and comforting tone for a sad emotion recognition
+
+
 
 ==> Autonomous Trigger System
 
